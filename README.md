@@ -26,7 +26,7 @@
    ![](https://i.loli.net/2020/07/27/pyQmdMHrOIz4x2f.png)
 
 2. 点击左侧的 ***Star***
-
+1
    ![image-20200727142617807](https://i.loli.net/2020/07/27/3cXnHYIbOxfQDZh.png)
 
 ### 四、查看运行结果
